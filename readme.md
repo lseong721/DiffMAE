@@ -1,4 +1,4 @@
-### Implementation of [*Diffusion Models as Masked Autoencoders*](https://openaccess.thecvf.com/content/ICCV2023/papers/Wei_Diffusion_Models_as_Masked_Autoencoders_ICCV_2023_paper.pdf).
+# Implementation of [*Diffusion Models as Masked Autoencoders*](https://openaccess.thecvf.com/content/ICCV2023/papers/Wei_Diffusion_Models_as_Masked_Autoencoders_ICCV_2023_paper.pdf).
 
 
 ### Installation
