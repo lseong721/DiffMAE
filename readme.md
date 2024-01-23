@@ -18,6 +18,6 @@ See logs by `tensorboard --logdir logs`.
 
 Pretrained models are in [Google drive](https://github.com/IcarusWizard/MAE/releases/tag/cifar10).
 
-Visualization of the first 4 images on 'smithsonian_butterflies_subset' validation dataset:
+Visualization of the first 4 images on 'smithsonian_butterflies_subset' dataset:
 
 ![avatar](fig/butterfly_results.png)
