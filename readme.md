@@ -20,4 +20,4 @@ Pretrained models are in [Google drive](https://github.com/IcarusWizard/MAE/rele
 
 Visualization of the first 4 images on 'smithsonian_butterflies_subset' validation dataset:
 
-![avatar](pic/mae-cifar10-reconstruction.png)
+![avatar](fig/butterfly_results.png)
