@@ -16,9 +16,7 @@ python mae_diffmae.py
 ## Results
 See logs by `tensorboard --logdir logs`.
 
-Weights are in [github release](https://github.com/IcarusWizard/MAE/releases/tag/cifar10).
-
-Tensorboard logs are in [tensorboard.dev](https://tensorboard.dev/experiment/zngzZ89bTpyM1B2zVrD7Yw/#scalars).
+Pretrained models are in [Google drive](https://github.com/IcarusWizard/MAE/releases/tag/cifar10).
 
 Visualization of the first 4 images on 'smithsonian_butterflies_subset' validation dataset:
 
