@@ -4,6 +4,10 @@
 ### Installation
 `pip install -r requirements.txt`
 
+### Dataset
+smithsonian_butterflies_subset https://huggingface.co/datasets/huggan/smithsonian_butterflies_subset
+huggan/smithsonian_butterflies_subset
+
 ### Run
 ```bash
 # pretrained with diffmae
@@ -12,7 +16,8 @@ python mae_diffmae.py
 
 See logs by `tensorboard --logdir logs`.
 
-Weights are in [github release](https://github.com/IcarusWizard/MAE/releases/tag/cifar10). 
+Weights are in [github release](https://github.com/IcarusWizard/MAE/releases/tag/cifar10).
+
 Tensorboard logs are in [tensorboard.dev](https://tensorboard.dev/experiment/zngzZ89bTpyM1B2zVrD7Yw/#scalars).
 
 Visualization of the first 4 images on 'smithsonian_butterflies_subset' validation dataset:
