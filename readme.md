@@ -13,6 +13,7 @@ https://huggingface.co/datasets/huggan/smithsonian_butterflies_subset
 python mae_diffmae.py
 ```
 
+### Results
 See logs by `tensorboard --logdir logs`.
 
 Weights are in [github release](https://github.com/IcarusWizard/MAE/releases/tag/cifar10).
