@@ -4,9 +4,8 @@
 ### Installation
 `pip install -r requirements.txt`
 
-### Dataset
-smithsonian_butterflies_subset https://huggingface.co/datasets/huggan/smithsonian_butterflies_subset
-huggan/smithsonian_butterflies_subset
+### Dataset (smithsonian_butterflies_subset)
+https://huggingface.co/datasets/huggan/smithsonian_butterflies_subset
 
 ### Run
 ```bash
