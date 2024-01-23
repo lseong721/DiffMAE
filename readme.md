@@ -1,19 +1,19 @@
 # Implementation of [*Diffusion Models as Masked Autoencoders*](https://openaccess.thecvf.com/content/ICCV2023/papers/Wei_Diffusion_Models_as_Masked_Autoencoders_ICCV_2023_paper.pdf).
 
 
-### Installation
+## Installation
 `pip install -r requirements.txt`
 
-### Dataset (smithsonian_butterflies_subset)
+## Dataset (smithsonian_butterflies_subset)
 https://huggingface.co/datasets/huggan/smithsonian_butterflies_subset
 
-### Run
+## Run
 ```bash
 # pretrained with diffmae
 python mae_diffmae.py
 ```
 
-### Results
+## Results
 See logs by `tensorboard --logdir logs`.
 
 Weights are in [github release](https://github.com/IcarusWizard/MAE/releases/tag/cifar10).
