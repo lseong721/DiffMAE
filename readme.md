@@ -13,7 +13,8 @@ https://huggingface.co/datasets/huggan/smithsonian_butterflies_subset
 ## Results
 See logs by `tensorboard --logdir logs`.
 
-Pretrained models are in [Google drive](https://drive.google.com/file/d/12-sM0zY7VCHc1B40PZ-728OJmxkSrQZF/view?usp=drive_link).
+Pretrained models are in [Google drive](https://drive.google.com/file/d/155iNeXy5yDL5ClXBhTT0lmJgeKQ7dVVo/view?usp=drive_link) (Butterfly).
+Pretrained models are in [Google drive](https://drive.google.com/file/d/1vqN8mfKLfRJwa0P0xNnNpNAgerERnGMJ/view?usp=drive_link) (Hair map).
 
 Visualization of the first 4 images on 'smithsonian_butterflies_subset' dataset:
 
