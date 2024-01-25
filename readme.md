@@ -2,9 +2,9 @@
 
 
 ## Installation
-`
+```
 pip install -r requirements.txt
-`
+```
 
 ## Setup
 ```
@@ -20,7 +20,9 @@ pip install -e ".[torch]"
 https://huggingface.co/datasets/huggan/smithsonian_butterflies_subset
 
 ## Run
-`python main_diffmae.py`
+```
+python main_diffmae.py
+```
 
 ## Results
 See logs by `tensorboard --logdir logs`.
