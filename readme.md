@@ -11,10 +11,10 @@ pip install -r requirements.txt
 cd diffusers
 pip install -e ".[torch]"
 ```
-`
+```
 cd transformers
 pip install -e ".[torch]"
-`
+```
 
 ## Dataset (smithsonian_butterflies_subset)
 https://huggingface.co/datasets/huggan/smithsonian_butterflies_subset
